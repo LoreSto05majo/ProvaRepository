@@ -5,5 +5,11 @@
  * @author lorenzo.stocchi
  *
  */
-module TetsThread {
+public class TetsThread {
+
+	public static void main(String[] args){
+
+		System.out.println("Hello, World!");
+	
+	}
 }
